@@ -1,0 +1,22 @@
+[2020-06-01 13:38:05] [info] Start Program:
+Path:"C:\\Users\\Lenovo\\Desktop\\An1\\sem2\\O.P\\lab10_11\\x64\\Debug\\lab10_11.exe"
+Arguments:
+Working directory: "C:\\Users\\Lenovo\\Desktop\\An1\\sem2\\O.P\\lab10_11\\lab10_11\\"
+Modules: Selected: C:\Users\Lenovo\Desktop\An1\sem2\O.P\lab10_11\x64\Debug\lab10_11.exe Excluded: 
+Sources: Selected: C:\Users\Lenovo\Desktop\An1\sem2\O.P\lab10_11\lab10_11 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Lenovo\AppData\Local\Temp\3l3ijkej.ena 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-06-01 13:38:06] [info] Module: C:\Users\Lenovo\Desktop\An1\sem2\O.P\lab10_11\x64\Debug\lab10_11.exe is selected because it matches selected pattern: C:\Users\Lenovo\Desktop\An1\sem2\O.P\lab10_11\x64\Debug\lab10_11.exe
+[2020-06-01 13:38:12] [info] ----------------------------------------------------
+[2020-06-01 13:38:12] [info] Coverage binary generated in file: C:\Users\Lenovo\AppData\Local\Temp\3l3ijkej.ena
+[2020-06-01 13:38:12] [info] ----------------------------------------------------
+[2020-06-01 13:38:12] [error] Your program stop with error code: -1073741515
